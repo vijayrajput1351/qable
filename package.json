@@ -1,0 +1,5 @@
+{
+  "dependencies": {
+    "@middleware.io/node-apm": "^2.4.2"
+  }
+}
